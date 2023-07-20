@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Call and Save App</string>
+    <string name="btn_call">CALL</string>
+    <string name="btn_save">SAVE</string>
+    <string name="btn_clear">CLEAR</string>
+    <string name="phone_hint">Enter Phone Number Here</string>
+
+</resources>
